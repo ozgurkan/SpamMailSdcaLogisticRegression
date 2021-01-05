@@ -1,1 +1,1 @@
-# Yazilim_Muhendisligi_Term_Project
+# DOĞAL DİL İŞLEME DÖNEM PROJESİ
